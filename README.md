@@ -1,6 +1,6 @@
 ## Hi! I am Gabriel Vieira
 
-- 🔭 Graduating in Systems and Digital Media 
+- 🔭 Graduating in Systems and Digital Media at Federal University of Ceará
 - 🌱 Studying Web Development
 <div align="center">
   <a href="https://github.com/iAmBiel">
