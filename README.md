@@ -15,7 +15,7 @@
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Biel-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://images-eds-ssl.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW3apWESZjav65Yncai8aRmVbSlZ3zqRpg1sdxEje_JmF.Y8Vcr0TxJ528C_rR8JIbbOWT5Xnx9InUZ3nBmW6mrTsarLVLHTvYBfOthKvyjoDqgN8Is9OHgmBg4_fTnEovKuW1dLAz7dknBlJ5IWD.nw-&format=jpg&h=253&w=253">
+  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://images-eds-ssl.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW_ES.ojiJijNBGRVUbTnZKsoCCCkjlsEJrrMqDkYqs3MZOcEMPREccWHD.Chvtpb3xvYgm5EEzdbY0.3vXoXvPAjEyUa6AwC72YmRBWEOiJOOf4Vxs77l457xWI0cnQb0ZjLSr5S0yO1uMBNayEtgoI-&format=jpg&h=253&w=253">
 </div>
 
 ##
