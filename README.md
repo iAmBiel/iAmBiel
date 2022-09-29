@@ -16,7 +16,6 @@
   <img align="center" alt="Biel-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Biel-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Biel-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://images-eds-ssl.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW_ES.ojiJijNBGRVUbTnZKsoCCCkjlsEJrrMqDkYqs3MZOcEMPREccWHD.Chvtpb3xvYgm5EEzdbY0.3vXoXvPAjEyUa6AwC72YmRBWEOiJOOf4Vxs77l457xWI0cnQb0ZjLSr5S0yO1uMBNayEtgoI-&format=jpg&h=253&w=253">
 </div>
 
 ##
