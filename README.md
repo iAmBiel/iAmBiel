@@ -1,8 +1,8 @@
 ## Hello, World <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">!
 ### I'm Gabriel Vieira
 
-- 🔭 Graduating in Systems and Digital Media at Federal University of Ceará
-- 🌱 Studying Web Development
+- 🔭 Graduating in Systems and Digital Media at Federal University of Ceará.
+- 🌱 Studying Web and Mobile Development.
 
  ### 🌎 Contact me:
 <div>
