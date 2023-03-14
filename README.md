@@ -1,4 +1,4 @@
-## Hello, World <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">!
+## Hello, World!
 ### I'm Gabriel Vieira
 
 - 🔭 Graduating in Systems and Digital Media at Federal University of Ceará.
