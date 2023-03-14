@@ -1,4 +1,4 @@
-## Hello, World!
+## Hello World!
 ### I'm Gabriel Vieira
 
 - 🔭 Graduating in Systems and Digital Media at Federal University of Ceará.
